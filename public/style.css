@@ -1,0 +1,15 @@
+h1 {
+  background-color: lightblue;
+}
+
+h1,
+h2 {
+  color: darkgreen;
+  font-family: 'Arial';
+}
+
+p,
+li {
+  color: darkblue;
+  font-family: 'Arial';
+}
